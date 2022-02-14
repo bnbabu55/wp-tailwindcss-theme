@@ -138,6 +138,10 @@
     grid-area: main;
   }
 
+  .post-body a {
+    @apply text-themeAccent text-xl;
+  }
+
   /* Hamburger to left arrow icon animation*/
 
   .hamburger {
